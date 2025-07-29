@@ -1,4 +1,4 @@
-# 5535406\_Siddhartha\_Bade
+# 5535406_Siddhartha_Bade
 
-<img src="https://github.com/siddharthabade/5535406\_Siddhartha\_Bade/blob/main/Agile/Image.jpg" alt="image">
+<img src="https://github.com/siddharthabade/5535406_Siddhartha_Bade/blob/main/Agile/Image.jpg" alt="image">
 
